@@ -1,2 +1,2 @@
 # pierwiastki
-zadanie na lekce zawodowe
+zadanie na lekcje zawodowe
